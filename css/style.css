@@ -1,0 +1,16 @@
+div {
+    background-color: #4BA4F2;
+    height: 100px;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    
+}
+
+#logo { height: 80px;
+
+}
+
+span  {
+    color: aqua;
+    font-weight: bold;
+}
